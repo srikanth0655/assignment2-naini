@@ -6,7 +6,7 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
 
 --- 
 Maryville to Kansas City 
-1.The bus journey time between Maryville and Kansas City is around 1h 40m and covers a distance of around 95 miles. 
-2.The fastest bus normally takes 1h 40m. Operated by Jefferson Lines,
-3.the Maryville to Kansas City bus service departs from Maryville, MO and arrives in Kansas City, MO
+1. The bus journey time between Maryville and Kansas City is around 1h 40m and covers a distance of around 95 miles. 
+2. The fastest bus normally takes 1h 40m. Operated by Jefferson Lines,
+3. the Maryville to Kansas City bus service departs from Maryville, MO and arrives in Kansas City, MO
 
