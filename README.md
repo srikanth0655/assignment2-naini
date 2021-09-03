@@ -10,3 +10,11 @@ Maryville to Kansas City
 2. The fastest bus normally takes 1h 40m. Operated by Jefferson Lines,
 3. the Maryville to Kansas City bus service departs from Maryville, MO and arrives in Kansas City, MO
 
+Items should be brought to Kansas city
+
+* Sweaters.
+* Lip balm.
+* Insulated water bottle.
+* Warm pants or jeans.
+* Heavy socks, such as: for adults.
+* for men. for women.
