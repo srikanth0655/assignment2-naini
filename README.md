@@ -14,4 +14,13 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
 3. Complete your check out process at Hyderabad.
 
 
-
+* Clothes
+    * sweater
+    * shoes
+* Cosmetics
+    * Sunscreen Lotion
+    * Facewash
+* Money
+* Snacks
+    * Chocolates
+    * Biscuits
