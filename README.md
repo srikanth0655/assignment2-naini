@@ -5,16 +5,13 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
 
 
 --- 
-Maryville to Kansas City 
-1. The bus journey time between Maryville and Kansas City is around 1h 40m and covers a distance of around 95 miles. 
-2. The fastest bus normally takes 1h 40m. Operated by Jefferson Lines,
-3. the Maryville to Kansas City bus service departs from Maryville, MO and arrives in Kansas City, MO
+##  Directions from Maryville to Kansas City 
+1. Book a cab from Maryville to Kansas Airport.
+2. Finish the check-in process through online.
+   1. Take boarding pass from the self service kiosk.
+   2. Waiting for the flight
+   3. Board your flight.
+3. Complete your check out process at Hyderabad.
 
-Items should be brought to Kansas city
 
-* Sweaters.
-* Lip balm.
-* Insulated water bottle.
-* Warm pants or jeans.
-* Heavy socks, such as: for adults.
-* for men. for women.
+
