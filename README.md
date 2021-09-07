@@ -44,8 +44,8 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
 # Quotes and Autors
 
 > "Be the change you want to see in the world" - By
- * Mahatma Gandhi *                          <br>
+ *Mahatma Gandhi*     <br>                     
 >  "Screw it ,Let's do it" - By 
-* Richard Branson *
+*Richard Branson*
 
 ---
