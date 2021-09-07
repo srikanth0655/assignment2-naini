@@ -26,3 +26,17 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
     * Biscuits
 
     [AboutMe](https://github.com/srikanth0655/assignment2-naini/blob/main/AboutMe.md)
+
+    ---
+
+    # Table Creation
+
+    A table with three columns recommends the some of the best foods that i experienced in India.
+
+    | Food/Drink    |   Location    | Price |
+    |   ---         |   ---         |  ---  |
+    |Chicken Nuggets|   McDonalds   |  $4   |
+    | Chicken Pizza |   PizzaHut    |  $3   |
+    | Tuna          |  starbucks    |  $2   |
+
+    ---
