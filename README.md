@@ -40,3 +40,12 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
     | Tuna          |  starbucks    |  $2   |
 
     ---
+
+# Quotes and Autors
+
+> "Be the change you want to see in the world" - By
+ * Mahatma Gandhi *                          <br>
+>  "Screw it ,Let's do it" - By 
+* Richard Branson *
+
+---
