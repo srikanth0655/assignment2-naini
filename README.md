@@ -51,7 +51,7 @@ When it comes to the natural wonders of the world, Niagara Falls continues to in
 
 
 -----
-## Code Fencing (Graph traversal)
+## (Graph traversal)
 In computer science, graph traversal (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.<https://en.wikipedia.org/wiki/Graph_traversal>
 
 ```
